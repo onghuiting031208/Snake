@@ -1,2 +1,5 @@
 # Snake
-good
+
+##introduction
+
+it is an snake game
