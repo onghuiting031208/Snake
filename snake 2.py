@@ -1,6 +1,6 @@
 import pygame
 import random
-#My name is Ong Hui Tings
+
 # setting up some initial parameters
 WIDTH, HEIGHT = 600, 600
 BLOCK_SIZE = 20
